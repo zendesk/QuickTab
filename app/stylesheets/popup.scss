@@ -1,0 +1,83 @@
+html,
+body {
+  font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Verdana, Tahoma, sans-serif;
+  font-size: 12px;
+  color: #555;
+  margin: 8px;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+}
+
+h1 {
+  background: transparent url('../images/icons/icon38-disabled.png') no-repeat 0 0;
+  background-size: 16px 16px;
+  font-size: 120%;
+  padding-left: 22px;
+  margin: 10px 0 0 10px;
+}
+
+h1.enabled {
+  background-image: url('../images/icons/icon38-enabled.png')
+}
+
+h2 {
+  border-bottom: 1px solid #ddd;
+  font-size: 95%;
+  font-weight: normal;
+  color: #999;
+  margin: 0 10px 5px;
+  padding-bottom: 5px;
+  width: 90%;
+}
+
+#app-status {
+  color: #B0B0B0;
+  font-size: 90%;
+  margin: 0 0 0 10px;
+  padding: 2px 0 20px 22px;
+}
+
+#settings-url-types {
+  margin-bottom: 20px;
+}
+
+#settings-help {
+  padding-bottom: 10px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  padding: 0 8px;
+  margin: 0;
+}
+
+li:hover {
+  background-color: #f2f2f2;
+}
+
+li a {
+  padding: 10px 0 10px 2px;
+  display: block;
+  text-decoration: none;
+  color: #555;
+}
+
+li a:hover,
+li a:focus {
+  color: #041521;
+  outline: 0;
+}
+
+li a.disabled {
+  color: lightGray;
+}
+
+li a.enabled {
+  background: transparent url('../images/icons/checkmark.png') no-repeat 155px 11px;
+}

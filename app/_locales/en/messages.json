@@ -1,0 +1,106 @@
+{
+  "txt_popup_status_active": {
+    "message": "Currently active",
+    "description": ""
+  },
+
+  "txt_popup_title_link_detection": {
+    "message": "Link detection settings",
+    "description": ""
+  },
+
+  "txt_popup_options_link_detection_allLinks": {
+    "message": "All agent links",
+    "description": ""
+  },
+
+  "txt_popup_options_link_detection_ticketLinks": {
+    "message": "Just ticket links",
+    "description": ""
+  },
+
+  "txt_popup_options_link_detection_noLinks": {
+    "message": "No links (disabled)",
+    "description": ""
+  },
+
+  "txt_popup_title_help": {
+    "message": "Need some help?",
+    "description": ""
+  },
+
+  "txt_popup_options_help_documentation": {
+    "message": "Read the documentation",
+    "description": ""
+  },
+
+  "txt_popup_options_help_welcome": {
+    "message": "See welcome screen again",
+    "description": ""
+  },
+
+  "txt_popup_options_help_feedback": {
+    "message": "Give beta feedback",
+    "description": ""
+  },
+
+  "txt_welcome_header_thank_you": {
+    "message": "Thanks for installing QuickTab",
+    "description": ""
+  },
+
+  "txt_welcome_header_main": {
+    "message": "Well behaved browser tabs for Zendesk agents",
+    "description": ""
+  },
+
+  "txt_welcome_header_hook": {
+    "message": "Click a Zendesk agent link from anywhere, and this handy little extension will hunt for any already open Zendesk tabs, opening the link their instead",
+    "description": ""
+  },
+
+  "txt_welcome_header_what_do": {
+    "message": "What does this do again?",
+    "description": ""
+  },
+
+  "txt_welcome_body_what_do": {
+    "message": "So you have a browser tab with the Zendesk agent interface already opened. When you click a link - a ticket or user link for example - this extension will ensure the link is opened in that same browser tab.",
+    "description": ""
+  },
+
+  "txt_welcome_header_new_browser_tab": {
+    "message": "Can I still open links in a new browser tab?",
+    "description": ""
+  },
+
+  "txt_welcome_body_new_browser_tab": {
+    "message": "You can disable the extension temporarily. Just go to your agent interface, and in your URL bar you should see an icon that looks like <img src='./images/icons/icon38-enabled.png' /> or <img src='./images/icons/icon38-disabled.png' />",
+    "description": ""
+  },
+
+  "txt_welcome_header_lose_work": {
+    "message": "Would that cause me to lose work?",
+    "description": ""
+  },
+
+  "txt_welcome_body_lose_work": {
+    "message": "No. The extension talks directly to the interface, telling it where you would like to navigate. The interface will keep all your work safe.",
+    "description": ""
+  },
+
+  "txt_welcome_header_what_links": {
+    "message": "What links does this work for?",
+    "description": ""
+  },
+
+  "txt_welcome_body_what_links": {
+    "message": "Any agent link, which is any link with /agent after the domain. Tickets, users, views and even admin pages.",
+    "description": ""
+  },
+
+  "txt_welcome_button_read_docs": {
+    "message": "Read the full documentation",
+    "description": ""
+  }
+}

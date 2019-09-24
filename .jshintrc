@@ -1,0 +1,39 @@
+{
+  "predef":    [
+    "$", "_", "Handlebars", "Em", "Sammy", "I18n", "Lotus", "Zendesk",
+    "Player", "sc_assert", "mpq", "Zd", "Ember", "Chat", "zenchat",
+    "ChatLotus", "Base64", "require", "module", "chrome"
+  ],
+
+  "curly":    true,
+  "bitwise":  false,
+  "newcap":   false,
+  "eqeqeq":   true,
+  "eqnull":   true,
+  "immed":    true,
+  "nomen":    false,
+  "onevar":   false,
+  "plusplus": false,
+  "regexp":   false,
+  "strict":   false,
+  "undef":    true,
+  "white":    false,
+  "trailing": true,
+
+  "debug":    false,
+  "es5":      false,
+  "evil":     false,
+  "forin":    false,
+  "laxbreak": false,
+  "sub":      false,
+
+  "maxlen":    200,
+  "indent":    2,
+  "maxerr":    50,
+  "passfail":  false,
+  "browser":   true,
+  "rhino":     false,
+  "devel":     true,
+  "lastsemic": false,
+  "expr":      true
+}

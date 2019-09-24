@@ -1,0 +1,31 @@
+{
+  "manifest_version": 2,
+  "default_locale": "en",
+  "update_url":"http://clients2.google.com/service/update2/crx",
+  "name": "Zendesk Quicktab",
+  "description": "Well behaved browser tabs for Zendesk agents",
+  "version": "0.11.6",
+  "background": {
+    "scripts": ["javascripts/tabWatcher.js"],
+    "persistent": true
+  },
+  "page_action": {
+    "default_icon": {
+      "19": "images/icons/icon38-enabled.png",
+      "38": "images/icons/icon38-enabled.png"
+    },
+    "default_title": "Zendesk QuickTab",
+    "default_popup": "popup.html"
+    },
+  "permissions": [
+    "http://*.zendesk.com/*",
+    "https://*.zendesk.com/*",
+    "webNavigation",
+    "tabs"
+  ],
+  "icons": {
+    "16":   "images/icons/icon-16.png",
+    "19":   "images/icons/icon-19.png",
+    "128":  "images/icons/icon-128.png"
+  }
+}
