@@ -2,7 +2,7 @@ var browser = require('./browser.js');
 
 var urlMatch = {
 
-  LOTUS_ROUTE: /^https?:\/\/(.*).zendesk.com\/agent\/(?!chat|voice)\#?\/?(.*)$/,
+  LOTUS_ROUTE: /^https?:\/\/(.*).zendesk.com\/agent\/(?!chat|talk)\#?\/?(.*)$/,
   TICKET_ROUTE: /^https?:\/\/(.*).zendesk.com\/(?:agent\/tickets|tickets|twickets|requests|hc\/requests)\#?\/?(.*)$/,
   RESTRICTED_ROUTE: /^https?:\/\/(.*).zendesk.com\/(agent\/(chat|talk|admin\/voice)\/?(.*)|tickets\/\d*\/print)/,
 
