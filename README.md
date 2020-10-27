@@ -7,3 +7,10 @@ QuickTab begins working as soon as installed. No set up needed!
 
 ### What permissions does QuickTab need?
 The extension will request permission to read and change your data on all zendesk.com sites. It needs this permission in order to keep your browser tabs in check.
+
+### UPDATE 2020
+* This extension is not maintained or supported
+* Because of changes on Google's Web Store and increased restrictions, this extension was removed from it
+* However, you can still install this extention locally by:
+    * Unzipping the .zip in ./releases
+    * Following the instructions at https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/
