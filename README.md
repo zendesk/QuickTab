@@ -11,6 +11,6 @@ The extension will request permission to read and change your data on all zendes
 ### UPDATE 2020
 * This extension is not maintained or supported
 * Because of changes on Google's Web Store and increased restrictions, this extension was removed from it
-* However, you can still install this extention locally by:
+* However, you can still install this extension locally by:
     * Unzipping the .zip in ./releases
     * Following the instructions at https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/
